@@ -5,9 +5,13 @@ Hi there 👋
 </div>
 
 Following are the skills that I used.
-Front-end development: HTML, CSS, JS, React/Redux, Angular, Vue,
-Typescript
+<br/>
+Front-end development: HTML, CSS, JS, React/Redux, Angular, Vue,Typescript
+<br/>
 Back-end development: Node, Express, PHP, Laravel
+<br/>
 Database: Mongo, MySQL, PostgreSQL, Oracle, SQL Server
+<br/>
 Data Visualization: D3.js, AgGrid, ApexChart, Canvas
+<br/>
 Version Control System: Git (Github)… more
